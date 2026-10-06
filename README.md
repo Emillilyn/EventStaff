@@ -22,6 +22,6 @@ Software engineering project
   <tr>
     <td><b>TBD</b></td>
     <td>Tomáš</td>
-    <td">Veržbický</td>
+    <td>Veržbický</td>
   </tr>
 </table>
