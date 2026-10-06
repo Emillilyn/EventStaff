@@ -1,0 +1,2 @@
+# EventStaff
+Software engeneering project
