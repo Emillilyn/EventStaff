@@ -1,2 +1,4 @@
 # EventStaff
-Software engeneering project
+Software engineering project
+
+# Team: Error404
