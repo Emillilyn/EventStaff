@@ -8,8 +8,6 @@ Verze #	352
 Projekt	EventStaffer
 Autor	Chaos
 
-Online kurz zdarma na www.leancanvas.cz
-
 Problém
 
 Jaké jsou 1–3 nejpalčivější problémy vašich zákazníků?
