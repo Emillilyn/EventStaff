@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td align="center">29.09.2026</td>
-    <td align="center">#352</td>
+    <td align="center">#1.0</td>
     <td align="center"><b>EventStaffer</b></td>
     <td align="center">Chaos</td>
   </tr>
