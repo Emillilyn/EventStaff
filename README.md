@@ -11,17 +11,17 @@ Software engineering project
   </tr>
   <tr>
     <td><b>TBD</b></td>
-    <td align="center">Emily</td>
+    <td>Emily</td>
     <td>Angström</td>
   </tr>
   <tr>
     <td><b>TBD</b></td>
-    <td align="center">Nicol</td>
+    <td>Nicol</td>
     <td>Matoušková</td>
   </tr>
   <tr>
     <td><b>TBD</b></td>
-    <td align="center">Tomáš</td>
-    <td align="center">Veržbický</td>
+    <td>Tomáš</td>
+    <td">Veržbický</td>
   </tr>
 </table>
