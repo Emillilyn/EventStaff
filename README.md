@@ -10,18 +10,18 @@ Software engineering project
     <th align="center">Surname</th>
   </tr>
   <tr>
-    <td><b>Emily</b></td>
-    <td align="center">TBD</td>
+    <td><b>TBD</b></td>
+    <td align="center">Emily</td>
     <td>Angström</td>
   </tr>
   <tr>
-    <td><b>...</b></td>
-    <td align="center">TBD</td>
-    <td>...</td>
+    <td><b>TBD</b></td>
+    <td align="center">Nicol</td>
+    <td>Matoušková</td>
   </tr>
   <tr>
-    <td><b>...</b></td>
-    <td align="center">...</td>
-    <td align="center">...</td>
+    <td><b>TBD</b></td>
+    <td align="center">Tomáš</td>
+    <td align="center">Veržbický</td>
   </tr>
 </table>
